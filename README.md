@@ -15,9 +15,10 @@
 
 ### uCapsule
 
+* View
+  * [demo](http://jarrellmark.duckdns.org:8081/index.html)
+  * [code](https://github.com/jarrellmark/uCapsule)
 * Description
-  * View
-    * [code](https://github.com/jarrellmark/uCapsule)
   * Mobile site simulating a fully loaded iPod.
   * Input is a list of artists. Upon clicking an artist, an album list is retrieved. Upon clicking an album, a song list is retrieved. Upon clicking on a song, a video is retrieved from YouTube
 * Technical Details
