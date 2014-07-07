@@ -1,5 +1,10 @@
 # Homepage
 
+## Resume
+
+* View
+  * [here](https://docs.google.com/document/d/15xWJIhmr2CSUQkIFvXkPZtgQQyC-rm3hHiZdomM4tdU/pub)
+
 ## Projects
 
 ### Custom T-shirt Design
