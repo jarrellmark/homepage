@@ -14,7 +14,6 @@
 
 * View
   * [demo](https://fancifier-c9-jarrellmark.c9.io/index.php)
-    * If not working, this will be available by 6/7/2014 10:30 AM EST.
   * [code](https://github.com/jarrellmark/fancifier)
 * Description
   * Enhances text. Replaces each word greater than 3 characters in the input with a _fancy_ synonym. _Fancy_ means long.
