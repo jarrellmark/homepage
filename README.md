@@ -6,6 +6,7 @@
 
 * View
   * [demo](https://fancifier-c9-jarrellmark.c9.io/index.php)
+    * If not working, this will be available by 6/7/2014 10:30 AM EST.
   * [code](https://github.com/jarrellmark/fancifier)
 * Description
   * Enhances text. Replaces each word greater than 3 characters in the input with a _fancy_ synonym. _Fancy_ means long.
@@ -20,7 +21,7 @@
   * [code](https://github.com/jarrellmark/uCapsule)
 * Description
   * Mobile site simulating a fully loaded iPod.
-  * Input is a list of artists. Upon clicking an artist, an album list is retrieved. Upon clicking an album, a song list is retrieved. Upon clicking on a song, a video is retrieved from YouTube
+  * Input is a list of artists. Upon clicking an artist, an album list is retrieved. Upon clicking an album, a song list is retrieved. Upon clicking on a song, a video is retrieved from YouTube.
 * Technical Details
   * Implemented entirely in client-side HTML5 and Javascript.
 
@@ -29,7 +30,7 @@
 * Description
   * Backtests a simple trading algorithm using pyAlgoTrade.
   * The algorithm
-    * index = the 30 stocks in the DOW 30.
+    * index = the 30 stocks in the DOW 30
     * portfolio = null
     * each day:
       * sell all stocks in portfolio
