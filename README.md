@@ -2,6 +2,13 @@
 
 ## Projects
 
+### Custom T-shirt Design
+
+* View
+  * [here](http://www.cafepress.com/cp/customize/product2.aspx?number=178448697)
+* Description
+  * A custom t-shirt design I made in high school.
+
 ### The Fancifier
 
 * View
