@@ -39,6 +39,8 @@
 
 ### Simple Trading Algorithm
 
+* View
+  * [code](https://github.com/jarrellmark/trading_algorithms/tree/master/simple)
 * Description
   * Backtests a simple trading algorithm using pyAlgoTrade.
   * The algorithm
