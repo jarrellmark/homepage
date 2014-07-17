@@ -7,6 +7,14 @@
 
 ## Projects
 
+### Deck of Cards
+
+* View
+  * [demo](http://jarrellmark.duckdns.org:3000/deck_of_cards/1)
+  * [code](https://github.com/jarrellmark/deck)
+* Description
+  * A deck of cards implemented in Ruby on Rails.
+
 ### The Fancifier
 
 * View
