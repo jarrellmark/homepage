@@ -7,6 +7,21 @@
 
 ## Projects
 
+### MarketOwl
+
+* View
+  * [website](https://marketowl.io)
+* Description
+  * Web application helping day traders minimize risk by sticking to rules.
+
+### Neighborhood Mood
+
+* View
+  * [article](https://medium.com/@jarrellmark/goodbye-spark-streaming-hello-aws-kinesis-analytics-37ccf0bc2e5e)
+  * [code](https://github.com/jarrellmark/neighborhood_mood_aws)
+* Description
+  * Demo app mapping neighborhood moods using Twitter and Kinesis.
+
 ### Deck of Cards
 
 * View
