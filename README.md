@@ -24,7 +24,6 @@
 ### Deck of Cards
 
 * View
-  * [demo](http://jarrellmark.duckdns.org:3000/deck_of_cards/1)
   * [code](https://github.com/jarrellmark/deck)
 * Description
   * A deck of cards implemented in Ruby on Rails.
@@ -32,7 +31,6 @@
 ### The Fancifier
 
 * View
-  * [demo](https://fancifier-c9-jarrellmark.c9.io/index.php)
   * [code](https://github.com/jarrellmark/fancifier)
 * Description
   * Enhances text. Replaces each word greater than 3 characters in the input with a _fancy_ synonym. _Fancy_ means long.
@@ -43,7 +41,6 @@
 ### uCapsule
 
 * View
-  * [demo](http://jarrellmark.duckdns.org:8081/index.html)
   * [code](https://github.com/jarrellmark/uCapsule)
 * Description
   * Mobile site simulating a fully loaded iPod.
