@@ -6,13 +6,6 @@
 
 ## Projects
 
-### MarketOwl
-
-* View
-  * [website](https://marketowl.io)
-* Description
-  * Web application helping day traders minimize risk by sticking to rules.
-
 ### Neighborhood Mood
 
 * View
@@ -20,6 +13,13 @@
   * [code](https://github.com/jarrellmark/neighborhood_mood_aws)
 * Description
   * Demo app mapping neighborhood moods using Twitter and Kinesis.
+
+### MarketOwl
+
+* View
+  * [website](https://marketowl.io)
+* Description
+  * Web application helping day traders minimize risk by sticking to rules.
 
 ### Deck of Cards
 
