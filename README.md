@@ -14,7 +14,7 @@
 * Description
   * Demo app mapping neighborhood moods using Twitter and Kinesis.
 * Story
-  * At first, I was trying to learn about processing streams using Apache Spark. I then ran into a new product at the time, AWS Kinesis.
+  * At first, I was trying to learn about processing streams using Apache Spark. I then ran into a new product at the time, AWS Kinesis Analytics.
 
 ### MarketOwl
 
