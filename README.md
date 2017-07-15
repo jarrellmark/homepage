@@ -13,6 +13,8 @@
   * [code](https://github.com/jarrellmark/neighborhood_mood_aws)
 * Description
   * Demo app mapping neighborhood moods using Twitter and Kinesis.
+* Story
+  * At first, I was trying to learn about processing streams using Apache Spark. I then ran into a new product at the time, AWS Kinesis.
 
 ### MarketOwl
 
@@ -20,34 +22,9 @@
   * [website](https://marketowl.io)
 * Description
   * Web application helping day traders minimize risk by sticking to rules.
-
-### Deck of Cards
-
-* View
-  * [code](https://github.com/jarrellmark/deck)
-* Description
-  * A deck of cards implemented in Ruby on Rails.
-
-### The Fancifier
-
-* View
-  * [code](https://github.com/jarrellmark/fancifier)
-* Description
-  * Enhances text. Replaces each word greater than 3 characters in the input with a _fancy_ synonym. _Fancy_ means long.
-* Technical Details
-  * Uses an Ajax call to prevent the page from refreshing.
-  * Backend logic done in PHP.
-
-### uCapsule
-
-* View
-  * [code](https://github.com/jarrellmark/uCapsule)
-* Description
-  * Mobile site simulating a fully loaded iPod.
-  * Input is a list of artists. Upon clicking an artist, an album list is retrieved. Upon clicking an album, a song list is retrieved. Upon clicking on a song, a video is retrieved from YouTube.
-* Technical Details
-  * Implemented entirely in client-side HTML5 and Javascript.
-
+* Story
+  * Creating this product was a 1.5 year effort by 3 people including myself. We were trying to create a useful tool for ourselves and others.
+  
 ### Simple Trading Algorithm
 
 * View
@@ -64,3 +41,36 @@
   * Hypothesis behind the algorithm
     * The weather today is like the weather tomorrow except for when it's not.
     * Applied to stocks instead of weather.
+* Story
+  * I have an interest in finance and wanted to see what open source backtesting libraries were available.
+
+### The Fancifier
+
+* View
+  * [code](https://github.com/jarrellmark/fancifier)
+* Description
+  * Enhances text. Replaces each word greater than 3 characters in the input with a _fancy_ synonym. _Fancy_ means long.
+* Technical Details
+  * Uses an Ajax call to prevent the page from refreshing.
+  * Backend logic done in PHP.
+* Story
+  * This was created at a Hackathon in 2012.
+
+### uCapsule
+
+* View
+  * [code](https://github.com/jarrellmark/uCapsule)
+* Description
+  * Mobile site simulating a fully loaded iPod.
+  * Input is a list of artists. Upon clicking an artist, an album list is retrieved. Upon clicking an album, a song list is retrieved. Upon clicking on a song, a video is retrieved from YouTube.
+* Technical Details
+  * Implemented entirely in client-side HTML5 and Javascript.
+* Story
+  * I created this app over a spring break in college to learn about AJAX, Javascript, and mobile-first design.
+
+### Deck of Cards
+
+* View
+  * [code](https://github.com/jarrellmark/deck)
+* Description
+  * A deck of cards implemented in Ruby on Rails.
